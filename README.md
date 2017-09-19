@@ -8,3 +8,7 @@
 ``` bash
 $ docker build . -t="macacajs/macaca-puppeteer-docker"
 ```
+
+## Sample
+
+- [webpdf](//github.com/xudafeng/webpdf)

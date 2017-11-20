@@ -5,7 +5,7 @@
 [travis-image]: https://img.shields.io/travis/macacajs/macaca-puppeteer-docker.svg?style=flat-square
 [travis-url]: https://travis-ci.org/macacajs/macaca-puppeteer-docker
 
-``` bash
+```bash
 $ docker build . -t="macacajs/macaca-puppeteer-docker"
 ```
 

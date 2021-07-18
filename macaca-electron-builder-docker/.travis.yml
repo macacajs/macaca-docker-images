@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - 10
+sudo: required
+services:
+  - docker
+install:
+  - echo Hello docker!
+script:
+  - docker build . -t="macacajs/macaca-electron-docker-ubuntu"

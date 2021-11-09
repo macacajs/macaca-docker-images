@@ -1,0 +1,5 @@
+.git
+logs
+node_modules
+*.sw*
+*.un~

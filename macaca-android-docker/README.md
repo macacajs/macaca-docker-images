@@ -5,11 +5,11 @@
 [![docker pull][docker-size-image]][docker-url]
 [![docker pull][docker-layers-image]][docker-url]
 
-[travis-image]: https://img.shields.io/travis/macacajs/macaca-android-docker.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/macacajs/macaca-android-docker.svg
 [travis-url]: https://travis-ci.org/macacajs/macaca-android-docker
-[docker-pull-image]: https://img.shields.io/docker/pulls/macacajs/macaca-android-docker.svg?style=flat-square&logo=dockbit
-[docker-size-image]: https://img.shields.io/microbadger/image-size/macacajs/macaca-android-docker.svg?style=flat-square&logo=dockbit
-[docker-layers-image]: https://img.shields.io/microbadger/layers/macacajs/macaca-android-docker.svg?style=flat-square&logo=dockbit
+[docker-pull-image]: https://img.shields.io/docker/pulls/macacajs/macaca-android-docker.svg?logo=dockbit
+[docker-size-image]: https://img.shields.io/microbadger/image-size/macacajs/macaca-android-docker.svg?logo=dockbit
+[docker-layers-image]: https://img.shields.io/microbadger/layers/macacajs/macaca-android-docker.svg?logo=dockbit
 [docker-url]: https://hub.docker.com/r/macacajs/macaca-android-docker/
 
 ## Macaca Tools Image

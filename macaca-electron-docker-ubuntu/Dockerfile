@@ -27,7 +27,7 @@ RUN apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y \
   && rm -rf /var/lib/apt/lists/*
 
 # Variable Layer: Node.js etc.
-ENV NODE_VERSION=12.18.3 \
+ENV NODE_VERSION=16.17.0 \
     NODE_REGISTRY=https://npm.taobao.org/mirrors/node \
     CHROMEDRIVER_CDNURL=http://npm.taobao.org/mirrors/chromedriver/ \
     ELECTRON_MIRROR=https://npm.taobao.org/mirrors/electron/ \
